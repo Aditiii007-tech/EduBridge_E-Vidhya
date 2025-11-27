@@ -1,4 +1,4 @@
-
+import Dashboard from './Dashboard';
 import React, { useState, useEffect } from 'react';
 import { Home, Wifi, WifiOff, LogOut, RefreshCw, Calculator, FlaskConical, BookA, Landmark, Brain, HelpCircle } from 'lucide-react';
 import Dashboard from './components/Dashboard';
